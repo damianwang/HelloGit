@@ -1,0 +1,12 @@
+package com.sxt;
+
+/**
+ * @author 王栋
+ * @desc
+ * @Date 2020-06-30 9:55
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git");
+    }
+}
